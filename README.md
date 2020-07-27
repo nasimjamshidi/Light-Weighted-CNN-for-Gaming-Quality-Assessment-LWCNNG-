@@ -1,1 +1,1 @@
-# Light Weighted CNN for Gaming Quality Assessment
+# Light Weighted CNN for Gaming Quality Assessment(LWCNNG)
