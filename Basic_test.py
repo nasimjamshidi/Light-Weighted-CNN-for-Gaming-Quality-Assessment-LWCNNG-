@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 13 18:07:49 2020
 
-@author: OmenG
-"""
 
 from PIL import Image
 from pandas import ExcelWriter
