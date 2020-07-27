@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 29 15:05:40 2020
 
-@author: Nasim
-"""
 from PIL import Image
 from pandas import ExcelWriter
 from keras.optimizers import Adam
