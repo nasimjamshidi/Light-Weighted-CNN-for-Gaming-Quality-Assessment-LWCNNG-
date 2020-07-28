@@ -1,5 +1,5 @@
 # Prepration 
 Install python and pip, if they are not already installed. Follow the platform specific installation instructions. The following step should be performed to prepare the setup.
 ```
-    git clone https://github.com/stootaghaj/NDNetGaming.git 
+    git clone https://github.com/nasimjamshidi/Light-Weighted-CNN-for-Gaming-Quality-Assessment-LWCNNG-.git
     pip install -r requirements.txt
